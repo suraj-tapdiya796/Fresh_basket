@@ -1,0 +1,12 @@
+.cart-heading {
+    color: green;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50%;
+}
+.cart-container{
+    border:0.5px solid   black;
+    padding:20px;
+}
